@@ -31,9 +31,9 @@ This is my collection of **WarGames writeups and notes** as I level up Every cha
 
 ### OverTheWire Bandit
 - [x] Level 0-3 *(Completed Oct 19, 2025)*
-- [ ] Level 4-7 *(In Progress)*
-- [ ] Level 8-10
-- [ ] Level 11-15
+- [x] Level 4-7 *(Completed Oct 26, 2025)*
+- [x] Level 8-10 *(Completed Oct 26, 2025)*
+- [ ] Level 11-15 *(In Progress)*
 - [ ] Level 16-20
 - [ ] Level 21-25
 - [ ] Level 26-33
@@ -115,7 +115,7 @@ This is my collection of **WarGames writeups and notes** as I level up Every cha
 ## 🎉 Milestones
 
 - [x] **Oct 19, 2025** - First WarGames challenge completed!
-- [ ] **Oct 31, 2025** - Complete Bandit 0-10
+- [x] **Oct 31, 2025** - Complete Bandit 0-10
 - [ ] **Nov 30, 2025** - Complete entire Bandit series
 
 ---
